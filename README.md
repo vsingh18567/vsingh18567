@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- pursuing a Bachelors & Accelerated Masters in Computer Science at the University of Pennsylvania
+- currently a Software Engineering Intern at [Casana](https://casanacare.com/)
+- previously a Software Engineering Intern at [CertiK](https://www.certik.com/)
+- interested in tooling, backend development and distributed systems
+
+[My Linkedin](https://www.linkedin.com/in/vikram-singh-2002/)
