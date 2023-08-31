@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - pursuing a Bachelors & Accelerated Masters in Computer Science at the University of Pennsylvania
-  - expected graduation date: December 2024
+  - expected graduation date: May 2025
 - currently a Software Engineering Intern at [Casana](https://casanacare.com/)
 - previously a Software Engineering Intern at [CertiK](https://www.certik.com/)
 - interested in tooling, backend development and distributed systems
