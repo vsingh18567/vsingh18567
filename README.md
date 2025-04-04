@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- pursuing a Bachelors & Accelerated Masters in Computer Science at the University of Pennsylvania
-  - expected graduation date: December 2024
+- currently a Software Engineer at [Stripe](https://stripe.com/)
 - previously a Software Engineering Intern at [Optiver](https://optiver.com/), [Casana](https://casanacare.com/) & [CertiK](https://www.certik.com/)
+- completed BS & MS in Computer Science at the University of Pennsylvania (2024)
 - interested in tooling, backend development and distributed systems 
 
 [My Linkedin](https://www.linkedin.com/in/vikram-singh-2002/)
